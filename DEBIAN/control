@@ -1,0 +1,10 @@
+Package: tdxdrivers
+Version: 1.0.4
+Architecture: all
+Maintainer: Jia Yuan <jiayuan@tiandixing.org>
+Installed-Size: 240
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, ubuntu-drivers-common, gksu
+Section: admin
+Priority: optional
+Description: Driver Manager
+ Manage the drivers for your devices off line.
